@@ -12,3 +12,5 @@ Among store locations, Hell’s Kitchen and Astoria generate higher revenue, whi
 
 Order size distribution reveals that Regular and Large sizes together account for the majority of orders, reinforcing customer preference for value-sized beverages.
 
+
+![Dashboard Snapshot](https://github.com/the-bipul-kumar/USA-FINANCIAL-DATA/blob/main/financial_page2.png)
