@@ -1,4 +1,4 @@
-# Coffee-Shop-Sales
+# Coffee-Shop-Sales (Retail)
 
 **Conclusion – Coffee Shop Sales Dashboard**
 
